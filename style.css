@@ -2,6 +2,10 @@ html {
     scroll-padding-top: 60px;
 }
 
+body {
+    background-color: #FFFFBA;
+}
+
 li::marker {
     font-weight: bold;
 }
