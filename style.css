@@ -9,3 +9,12 @@ html {
 table {
     background-color: #E6E6E6 !important;
 } */
+
+li::marker {
+    font-weight: bold;
+}
+
+.list-none {
+    list-style: none;
+    padding-left: 0;
+}
