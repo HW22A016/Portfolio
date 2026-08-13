@@ -2,14 +2,6 @@ html {
     scroll-padding-top: 60px;
 }
 
-/* body {
-    background-color: #E6E6E6;
-}
-
-table {
-    background-color: #E6E6E6 !important;
-} */
-
 li::marker {
     font-weight: bold;
 }
