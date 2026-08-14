@@ -14,3 +14,9 @@ li::marker {
     list-style: none;
     padding-left: 0;
 }
+
+.text-gradient {
+    text-decoration: underline double red;
+    background: linear-gradient(135deg, #66CCFF, #66FFFF);
+    border-radius: 8px;
+}
